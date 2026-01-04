@@ -1,0 +1,31 @@
+{
+    "auth": "jsjqrkknygooplcbsxjbztuxhqmtdyeg",
+    "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQCYoaWnMtWf27ZhD/kM45s7doi7yAzU3D7ri4zNmWzRnxNpf9M1\ndhYhRMRMwX+juLQWPyxI6CH57WAdsfn+KKvvFHRqJZiskWE8pajWcOvjJocE1WPB\nkPApkHwNQwQa673OC/0Vd50XuH8C8lIMbAtqPqSgUy/3spaxxuswRxMTOQIDAQAB\nAoGAB0BKt+ZE2trbz8GsAc5AXjNT7KPk5CnwfU08a7oZvt2xVOZDOPt6sqrrLoBU\n2YjZWWM37eDFWHPMCK0fZNE21cqY9NXf+rWJCbqRA3FJNFNdoGc9rmSvzt+VYsQC\nZo9fqQrPHsszRsRY1H9gDIW1/ba+bTI0o6eBkHkhMx4rT8ECQQDDUow+3p0P5uV/\nDtbh2CTwbpCqghF6nAD4KrHeRSgX2UAw4AvfW1D0RM3ptlZ0ojBCwBK3CXid1QEG\nqshLbW8RAkEAyAwASMBX+9iLuTnBidgKTXNerVykAuhcHcjryPYnwamQ+559DM06\nhpf0JKRvUN48RFG/61ghFrZDYQYMhWqxqQJBAKaFPN3oqlzBTE0rmJVI0g1NJfbI\nFyDB2a25sJS/vvO+GxTQHi8ZSgZGloq3EjQzhhOSbyIvZ+6fh1VoyoRL0xECQElU\n3OXOXHJdtxp3KZM2NtCdch9qzlSiiOICPSy1z20Wk6cpOf3vXXzpRv4HqSaj0MPa\nk9fZvods2NZAOWbO7cECQF2tYXJWfPc9CKVnUS6pcwFHU6/vR0gXzdNEgvctzmW1\n1PXYmdqdAqwmUciF6uBOgtN2u7DWppn65Wjim599K1g=\n-----END RSA PRIVATE KEY-----",
+    "user": {
+        "user_guid": "u0I9GX10acc0f000866c6214f648959e",
+        "first_name": ".",
+        "phone": "989152108002",
+        "username": "Mester1292",
+        "last_online": 1767525576,
+        "bio": "| \u0644\u0648\u067e \u262f\u200d\u200c \ud835\ude47\ud835\ude4a\ud835\ude4a\ud835\ude4b\u200d\u200c\n\u200c \u200c- \uabed\u062a\u0640\u064e\uabed\u0646\u0640\u06c1\uabed\u0627 \uabed\u06a9\u064e\uabed\u0633\u200d\u06cd \uabed\u06a9\u0650 \u06be\u064e\uabed\u0645\u200d\uabed\u06cc\u200d\uabed\u0634\u200d\u06c1\u200c\u0650 \uabed\u0628\u200d\uabed\u0627\uabed\u0647\u200d\uabed\u0627\uabed\u062a\u200d\u06c1\u0650\u200c\u061b \uabed\u062e\u200d\u064f\u0640\uabed\u062f\uabed\u0627\uabed\u062a\u200d\u06c1\u0650\u2368\u261d\ufe0f\ud83c\udffb\ud83d\udd4b\ufe0f",
+        "is_deleted": false,
+        "is_verified": false,
+        "online_time": {
+            "type": "Exact",
+            "exact_time": 1767525576
+        },
+        "saved_music_last_track": {
+            "file_id": 76626662129805,
+            "mime": "flac",
+            "dc_id": 995,
+            "access_hash_rec": "4400445038108849224678122875112025110100",
+            "file_name": "Age Bebazam Del Behet [Horadi.com].flac",
+            "width": 0,
+            "height": 0,
+            "time": 188,
+            "size": 7567963,
+            "type": "Music",
+            "music_performer": "<unknown>"
+        }
+    }
+}
